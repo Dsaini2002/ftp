@@ -1,0 +1,8 @@
+2025-10-15 18:46:19,199 [INFO] FTP Honeypot starting on 0.0.0.0:21 user=testftppno9
+2025-10-15 18:46:19,201 [INFO] concurrency model: async
+2025-10-15 18:46:19,201 [INFO] masquerade (NAT) address: None
+2025-10-15 18:46:19,201 [INFO] passive ports: None
+2025-10-15 18:46:19,201 [INFO] >>> starting FTP server on 0.0.0.0:21, pid=9428 <<<
+2025-10-15 19:02:10,127 [INFO] Admin requested shutdown.
+2025-10-15 19:02:10,130 [INFO] >>> shutting down FTP server, pid=9428, 0 open socket(s) <<<
+2025-10-15 19:02:10,130 [INFO] FTP Honeypot stopped.
